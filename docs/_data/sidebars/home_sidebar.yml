@@ -10,6 +10,9 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
+      title: Training a custom text classifier
+      url: FlairNLP.html
+    - output: web,pdf
       title: Title
       url: Modelling.html
     output: web

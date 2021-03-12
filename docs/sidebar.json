@@ -1,6 +1,7 @@
 {
   "mllib": {
     "Overview": "/",
+    "Training a custom text classifier": "FlairNLP.html",
     "Title": "Modelling.html"
   }
 }
