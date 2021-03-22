@@ -1,0 +1,6 @@
+embedding_size: 30
+hidden_size: 30
+lr: 0.02
+max_len: 15
+num_layers: 1
+vocab_size: 104
